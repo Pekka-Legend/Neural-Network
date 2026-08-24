@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\Caleb\OneDrive\Desktop\Coding\C++\Number AI\Number Neural Network\matrix.h(27,19): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Caleb\OneDrive\Desktop\Coding\C++\Number AI\Number Neural Network\network.h(88,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+  Number Neural Network.vcxproj -> C:\Users\Caleb\OneDrive\Desktop\Coding\C++\Number AI\Number Neural Network\x64\Debug\Number Neural Network.exe
